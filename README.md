@@ -5,7 +5,7 @@ We devloped an algorithm to detect anomaly in your cloud provider.
 Each major cloud provider provides some sort of auditing mechanism to monitor your activity in the cloud.  
 We tested our algorithm on AWS cloudtrail API calls. However, an algorithm could be deduced for any cloud provider that provides an auditing mechanism of your API calls to the cloud.  
 Testing System:
-OS: Mac  
+OS: macOS  
 Chip: Apple M2  
 Version: 13.0 (22A380)  
 Python Version: 3.9  
